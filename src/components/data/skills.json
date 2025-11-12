@@ -1,0 +1,83 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title":"Firebase",
+    "imageSrc":"skills/firebase.png"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+    {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+    {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+    {
+    "title": "C++",
+    "imageSrc": "skills/cpp.png"
+  },
+    {
+    "title": "Express.js",
+    "imageSrc": "skills/express.png"
+  },
+    {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/talwind.png"
+  },
+    {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+    {
+    "title": "MySql",
+    "imageSrc": "skills/mysql.png"
+  },
+    {
+    "title": "Django",
+    "imageSrc": "skills/django.png"
+  },
+    {
+    "title": "Laravel",
+    "imageSrc": "skills/laravel.png"
+  },
+    {
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
+  },
+    {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+    {
+    "title": "Github",
+    "imageSrc": "skills/github.png"
+  }
+
+]
