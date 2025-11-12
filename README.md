@@ -29,10 +29,10 @@ Follow these steps to run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/aditya4332/portfolio.git
+git clone https://github.com/aditya4332/portfolio-website.git
 
 # Navigate into the project folder
-cd portfolio
+cd portfolio-website
 
 # Install dependencies
 npm install
